@@ -1,0 +1,6 @@
+C:\Users\YuriRamosdeOliveira\Desktop\Yuri\Projetos\LibreComerceBackend\livrariaAPIs\livrariaAPIs\obj\Debug\netcoreapp3.1\livrariaAPIs.csproj.AssemblyReference.cache
+C:\Users\YuriRamosdeOliveira\Desktop\Yuri\Projetos\LibreComerceBackend\livrariaAPIs\livrariaAPIs\obj\Debug\netcoreapp3.1\livrariaAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuriRamosdeOliveira\Desktop\Yuri\Projetos\LibreComerceBackend\livrariaAPIs\livrariaAPIs\obj\Debug\netcoreapp3.1\livrariaAPIs.AssemblyInfoInputs.cache
+C:\Users\YuriRamosdeOliveira\Desktop\Yuri\Projetos\LibreComerceBackend\livrariaAPIs\livrariaAPIs\obj\Debug\netcoreapp3.1\livrariaAPIs.AssemblyInfo.cs
+C:\Users\YuriRamosdeOliveira\Desktop\Yuri\Projetos\LibreComerceBackend\livrariaAPIs\livrariaAPIs\obj\Debug\netcoreapp3.1\livrariaAPIs.csproj.CoreCompileInputs.cache
+C:\Users\YuriRamosdeOliveira\Desktop\Yuri\Projetos\LibreComerceBackend\livrariaAPIs\livrariaAPIs\obj\Debug\netcoreapp3.1\livrariaAPIs.MvcApplicationPartsAssemblyInfo.cache
